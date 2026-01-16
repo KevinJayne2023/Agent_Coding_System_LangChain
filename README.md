@@ -135,4 +135,4 @@ MIT — see `LICENSE` (or update to your preferred license).
 
 ## 🙏 Acknowledgements
 
-Thanks to the LangChain and LangGraph communities for their excellent tooling and examples.
+Thanks to the LangChain and LangGraph communities for their excellent tooling and examples
